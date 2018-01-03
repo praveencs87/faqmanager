@@ -1,0 +1,44 @@
+.faq-manager p {
+	clear:both;
+}
+.faq-manager label {
+	float: left; width: 100px;
+}
+
+.faq-manager input.txt {
+	width: 80%;
+}
+
+div#static {
+	display:none; visibility:hidden;
+}
+
+p.faq_controls {
+	
+}
+
+
+.faq-button {
+	border: medium none;
+    border-radius: 5px 5px 5px 5px;
+    color: #FFFFFF;
+    cursor: pointer;
+	padding: 5px;
+    width: 30px;
+    font-size: 15px;
+    font-weight: bold;	
+}
+
+.add_new {
+	background-color: #2A93C3
+}
+.remove {
+	background-color: #FF0000;
+	
+}
+
+.txtarea {
+	width: 80%; 
+	height: 200px; 
+	float; left;
+}
